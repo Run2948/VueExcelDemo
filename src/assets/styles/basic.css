@@ -1,0 +1,17 @@
+.el-button {
+  border-radius: 0 !important;
+}
+
+.el-button.is-circle {
+  border-radius: 50% !important;
+}
+
+.el-message__content {
+  line-height: 2 !important;
+}
+
+html,
+body {
+  height: 100%;
+  overflow: hidden;
+}
